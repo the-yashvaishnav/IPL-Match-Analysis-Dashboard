@@ -13,3 +13,4 @@ This project presents an interactive dashboard to analyze IPL match data, includ
 - Toss Decision Distribution (Bat vs Field)
 
 ## 📷 Screeshots
+https://github.com/the-yashvaishnav/IPL-Match-Analysis-Dashboard/blob/main/IPL%20Analysis%20Dashboard.png
